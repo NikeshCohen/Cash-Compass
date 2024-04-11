@@ -1,4 +1,4 @@
-<h1 align='center'>Cost Compass</h1>
+<h1 align='center'>Cash Compass</h1>
 
 ## Overview
 
