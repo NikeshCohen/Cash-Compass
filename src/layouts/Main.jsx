@@ -9,7 +9,7 @@ export function mainLoader() {
   return { userName };
 }
 
-export const Main = () => {
+const Main = () => {
   const { userName } = useLoaderData();
 
   return (
