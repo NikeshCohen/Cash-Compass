@@ -2,7 +2,7 @@
 
 ## Overview
 
-The finance tracker is a web application designed to help users track their income, expenses, and overall financial health. Users have the ability to create new budgets, view recent most recent expenses, as well as all previous expenses. You are able to view all expenses in each budget category.
+Cash Compass is a web application designed to help users track their income, expenses, and overall financial health. Users have the ability to create new budgets, view recent most recent expenses, as well as all previous expenses. You are able to view all expenses in each budget category.
 
 ![](./design/cashcompass.avif)
 
